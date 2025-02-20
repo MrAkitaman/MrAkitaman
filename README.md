@@ -3,8 +3,6 @@
   <h3>A passionate developer from France</h3>
 </div>
 
-###
-
 <div align="left">
   <h3>👩‍💻 Languages:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="35" alt="lua logo"  />
@@ -20,8 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-
-  ###
 
   <h3>🔧 Software:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
@@ -39,7 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" alt="canva logo"  />
 </div>
 
-###
 <div align="center">
   ## 📈 Graphs:
 </div>
@@ -50,7 +45,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=mrakitaman&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
 ## 👀 Profile views:
 <div align="center">
   <img src="https://profile-counter.glitch.me/mrakitaman/count.svg?"  />
